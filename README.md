@@ -1,5 +1,5 @@
 # InstaRelief
-Our soultion for Northrup Grumman Space Park 2017 CodeAthon Challenge
+Our teams winning soultion for Northrup Grumman Space Park 2017 CodeAthon Challenge
 # Team Members:
 Kelly Broton, Ryan Morris, Garrett Stribling, and Mark Rassamni
 San Diego State University
